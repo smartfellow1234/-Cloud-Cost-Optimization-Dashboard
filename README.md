@@ -29,25 +29,7 @@ The **Cloud Cost Optimization Dashboard** is an AWS-based project that helps mon
 
 ## 🏗️ Architecture
 
-```text
-AWS Cost Explorer
-        │
-        ▼
-   CSV Export
-        │
-        ▼
- Power BI Dashboard
-        │
-        ▼
-Cost Optimization Insights
-
-AWS Budgets
-        │
-        ▼
- Email Notifications
-```
-
----
+<img width="2816" height="1536" alt="Architecture Flow" src="https://github.com/user-attachments/assets/84b84c8d-189a-4d12-ab94-40e1d8cc188c" />
 
 ## ✨ Features
 
@@ -126,12 +108,16 @@ The Power BI dashboard includes:
 ## 📷 Sample Outputs
 
 - AWS Cost Explorer Cost Report
+<img width="1919" height="903" alt="Screenshot 2026-06-06 123701" src="https://github.com/user-attachments/assets/a76c66cf-da7e-4231-b7ca-54bde7e41415" />
 - AWS Budget Alert Configuration
+<img width="1919" height="900" alt="Screenshot 2026-06-06 124106" src="https://github.com/user-attachments/assets/59d61e3e-6547-48ce-a88b-8667777b301b" />
+<img width="1919" height="907" alt="Screenshot 2026-06-06 124258" src="https://github.com/user-attachments/assets/2a5ea994-776f-402e-9a8e-5610d0784e00" />
+<img width="1919" height="902" alt="Screenshot 2026-06-06 124501" src="https://github.com/user-attachments/assets/a1d95d19-eb7f-46a6-92c7-56255f7d5194" />
+<img width="1919" height="902" alt="Screenshot 2026-06-06 124746" src="https://github.com/user-attachments/assets/d9b4e526-e672-45d4-a7c6-4eec8676110d" />
 - Power BI Cost Dashboard
-- Cost Optimization Recommendations
+<img width="1919" height="974" alt="Screenshot 2026-06-06 140734" src="https://github.com/user-attachments/assets/9268a903-936d-4a91-9ba8-7a5c1bc5c289" />
 
 ---
-
 ## 📚 Future Enhancements
 
 - Automate data collection using AWS Cost Explorer API.
